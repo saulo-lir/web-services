@@ -1,0 +1,15 @@
+/* Facebook Login */
+
+1) Baixar a biblioteca php do facebook no link: https://github.com/facebook/php-graph-sdk
+
+2) Abrir pasta da biblioteca e copiar a pasta Facebook para dentro do projeto
+
+3) Opcional: Criar um arquivo para iniciar a sessão do Facebook
+
+4) Criar conta no https://developers.facebook.com/ para possuir a chave
+da api
+
+/* Graph API Exxplorer */
+
+1) Acessar o site https://developers.facebook.com/tools/explorer/
+2) Documentação:; https://developers.facebook.com/docs/graph-api/using-graph-api/

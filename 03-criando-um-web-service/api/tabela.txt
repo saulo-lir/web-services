@@ -1,0 +1,7 @@
+
+create table tarefas(
+id int auto_increment not null primary key,
+status tinyint(1),
+titulo varchar(100)
+
+)
